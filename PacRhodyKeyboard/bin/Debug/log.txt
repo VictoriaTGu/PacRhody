@@ -1,0 +1,130 @@
+
+Time : 1:13:59 PM Thursday, July 21, 2011
+
+ Name: Black. Score : 04 
+-------------------------------
+
+Time : 1:22:40 PM Thursday, July 21, 2011
+
+ Name: Banana. Score : 02 
+-------------------------------
+
+Time : 1:28:01 PM Thursday, July 21, 2011
+
+ Name: Umbridge. Score : 04 
+-------------------------------
+
+Time : 4:22:52 PM Thursday, July 21, 2011
+
+ Name: Hagrid. Score : 4 
+-------------------------------
+
+Time : 4:23:47 PM Thursday, July 21, 2011
+
+ Name: Buckbeak. Score : 11 
+-------------------------------
+
+Time : 1:54:54 PM Friday, July 22, 2011
+
+ Name: neville. Score : 9 
+-------------------------------
+
+Time : 10:13:24 AM Saturday, July 23, 2011
+
+ Name: The Boy Who Lived. Score : 3 
+-------------------------------
+
+Time : 10:16:03 AM Saturday, July 23, 2011
+
+ Name: Flitwick. Score : 6 
+-------------------------------
+
+Time : 10:18:26 AM Saturday, July 23, 2011
+
+ Name: Padfoot. Score : 1 
+-------------------------------
+
+Time : 10:19:28 AM Saturday, July 23, 2011
+
+ Name: Moaning Myrtle. Score : 4 
+-------------------------------
+
+Time : 10:22:45 AM Saturday, July 23, 2011
+
+ Name: Aragog. Score : 6 
+-------------------------------
+
+Time : 10:32:46 AM Saturday, July 23, 2011
+
+ Name: Karkaroff. Score : 0 
+-------------------------------
+
+Time : 11:00:36 AM Saturday, July 23, 2011
+
+ Name: Voldy. Score : 6 
+-------------------------------
+
+Time : 11:13:03 AM Saturday, July 23, 2011
+
+ Name: Neville. Score : 2 
+-------------------------------
+
+Time : 11:15:42 AM Saturday, July 23, 2011
+
+ Name: Ginny. Score : 3 
+-------------------------------
+
+Time : 4:29:41 PM Monday, July 25, 2011
+
+ Name: Fred. Score : 07 
+-------------------------------
+
+Time : 4:32:56 PM Monday, July 25, 2011
+
+ Name: George. Score : 06 
+-------------------------------
+
+Time : 4:33:47 PM Monday, July 25, 2011
+
+ Name: Bellatrix. Score : 16 
+-------------------------------
+
+Time : 8:50:07 PM Monday, July 25, 2011
+
+ Name: Potter. Score : 00 
+-------------------------------
+
+Time : 9:07:02 PM Monday, July 25, 2011
+
+ Name: Weasley. Score : 15 
+-------------------------------
+
+Time : 9:11:23 PM Monday, July 25, 2011
+
+ Name: Granger. Score : 16 
+-------------------------------
+
+Time : 1:08:00 PM Tuesday, July 26, 2011
+
+ Name: Dumbledore. Score : 57 
+-------------------------------
+
+Time : 1:50:02 PM Tuesday, July 26, 2011
+
+ Name: Neville. Score : 11 
+-------------------------------
+
+Time : 1:09:59 PM Wednesday, July 27, 2011
+
+ Name: Malfoy. Score : 08 
+-------------------------------
+
+Time : 2:13:22 PM Wednesday, July 27, 2011
+
+ Name: Hagrid. Score : 03 
+-------------------------------
+
+Time : 2:15:43 PM Wednesday, July 27, 2011
+
+ Name: Buckbeak. Score : 07 
+-------------------------------
